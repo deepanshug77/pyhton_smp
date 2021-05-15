@@ -1,1 +1,1 @@
-# pyhton_smp
+# python_smp
